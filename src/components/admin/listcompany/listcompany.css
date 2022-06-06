@@ -1,0 +1,13 @@
+.row-style {
+    background-color: orange;
+}
+.listcompany{
+    font-size: 16px;
+    font-weight:200;
+    font-family:'Source Sans Pro', sans-serif;
+    padding-right: 16px;
+}
+/* --------------------------------SEARCH------------------------------------------ */
+.input-group{
+    margin-bottom: 30px;
+}
