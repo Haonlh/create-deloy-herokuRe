@@ -79,9 +79,9 @@ class Sidebar extends Component {
                         </ul>
                     </div>
                 </div>
-                {/* <div className="viewList">
-                    <Image/>
-                </div> */}
+                <div className="viewList">
+                    <Listcompany/>
+                </div>
             </div>
         );
     }
